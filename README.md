@@ -318,4 +318,4 @@ Claude Sonnet charges ~$3 per million input tokens. A typical synthesis call use
 
 ---
 
-> **Academic Disclaimer:** This system is a final year engineering prototype for educational purposes. Its outputs do not constitute professional financial advice. Do not use recommendations for actual investment decisions.
+> **Academic Disclaimer:** This system is a final year engineering prototype and still in training phase.
