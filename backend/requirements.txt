@@ -1,0 +1,30 @@
+#  Orchestration 
+langgraph==0.2.50
+langchain==0.3.14
+langchain-community==0.3.14
+langchain-ollama==0.2.3
+langchain-chroma==0.2.0
+langchain-huggingface==0.1.2
+
+#  Local AI Models 
+transformers==4.41.2
+torch>=2.5,<2.12      # CPU version; pip install torch --index-url https://download.pytorch.org/whl/cpu
+sentence-transformers==3.3.1
+chromadb==0.5.23
+
+#  External API 
+anthropic==0.40.0
+aiosqlite==0.20.0          # required by AsyncSqliteSaver (LangGraph async checkpointing)
+
+#  Backend Framework 
+fastapi==0.115.0
+uvicorn[standard]==0.30.0
+pydantic==2.9.0
+sqlalchemy==2.0.35
+python-dotenv==1.0.0
+
+#  Testing 
+pytest==8.3.0
+pytest-asyncio==0.24.0
+httpx==0.28.0
+newsapi-python==0.2.7

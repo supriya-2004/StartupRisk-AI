@@ -1,0 +1,29 @@
+CB Insights has analyzed over 1,100 startup post-mortems to identify the most common reasons for failure. The following are the top 12 reasons with approximate incidence rates based on their research. Many startups fail for multiple simultaneous reasons, so percentages exceed 100 when summed.
+
+1. No market need — 42 percent. The single most common reason. Founders build products that solve problems they personally care about but that too few customers will pay to solve. The product may work technically but fails commercially because demand is insufficient to build a viable business. This is why customer discovery and validation before building is emphasized by every major accelerator program.
+
+2. Ran out of cash — 38 percent. Insufficient runway to reach the next milestone or achieve profitability. This often manifests as a secondary cause when the primary cause is slow growth or poor unit economics, but it also occurs when founders fail to manage burn rate relative to revenue growth, or when fundraising rounds take longer than anticipated.
+
+3. Wrong team — 35 percent. Team deficiencies including missing domain expertise, co-founder conflicts, skill gaps in key functions such as sales or engineering, and lack of relevant industry relationships. YC partner Paul Graham has written that the most common startup killing team problem is co-founders who do not have an honest and resilient relationship before starting the company.
+
+4. Outcompeted — 20 percent. Startups that entered real markets but were unable to differentiate, move fast enough, or access sufficient capital to compete with incumbents or better-funded rivals. This is more common in markets where incumbents respond aggressively to startup entry or where a second well-funded startup with a similar model raises significantly more capital.
+
+5. Pricing and cost issues — 18 percent. Failure to achieve a viable price for the product, either because the market would not support sufficient pricing or because the cost structure made profitability impossible at sustainable prices. Common in hardware startups and in markets where indirect competition from free alternatives caps willingness to pay.
+
+6. Poor product — 17 percent. Products that did not work well enough, were too difficult to use, or failed to solve the problem reliably. This differs from no market need in that there was demand, but the product failed to deliver sufficient value to retain customers.
+
+7. Lack of business model — 17 percent. Founders who built impressive products or attracted users but never established a sustainable mechanism for converting usage into revenue. Particularly common in consumer social and media startups that assumed advertising would eventually monetize user bases.
+
+8. Poor marketing — 14 percent. Inability to reach the target customer, communicate the value proposition clearly, or build awareness in a cost-effective way. Often correlated with founding teams that are entirely technical and lack commercial distribution capabilities.
+
+9. Ignoring customers — 14 percent. Founders who built products based on their own assumptions rather than continuous feedback loops, resulting in products that diverged from what customers actually needed over time.
+
+10. Product mistimed — 13 percent. Entering a market either too early, when customer behavior or enabling infrastructure was not ready, or too late, when the market was already consolidating around established players. Timing is one of the hardest variables to assess in advance.
+
+11. Lost focus — 13 percent. Startups that pursued too many opportunities simultaneously, diluted their product roadmap across multiple customer segments, or were distracted by non-core activities including excessive conference attendance, media engagement, or feature requests from non-representative customers.
+
+12. Founder burnout and team disharmony — 9 percent. The physical and psychological demands of founding a startup combined with co-founder disagreements over strategy, equity, or decision-making authority. Burnout becomes more prevalent in startups that grow slower than expected and require sustained effort over multi-year horizons without clear progress milestones.
+
+Additional reasons cited with lower frequency include regulatory hurdles affecting 8 percent of startups, failure to raise follow-on capital at 8 percent, location disadvantages creating hiring or partnership difficulties at 7 percent, and failure to leverage networks for talent, customers, and investor introductions at 8 percent.
+
+The critical insight from CB Insights research is that no market need and wrong team together account for the majority of startup failures, and both are identifiable through customer discovery and team assessment before significant capital is deployed.

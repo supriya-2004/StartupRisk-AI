@@ -1,0 +1,37 @@
+# ═══════════════════════════════════════════════════════════════
+#  StartupRisk AI v2  —  knowledge_base/.gitignore
+#  The .txt source files ARE committed (they are the RAG corpus).
+#  Generated/cached artifacts are ignored.
+# ═══════════════════════════════════════════════════════════════
+
+
+#  Commit all .txt files (RAG knowledge corpus) 
+# All 20 .txt files in subdirectories should be tracked.
+# No negation needed — just ignore everything non-.txt below.
+
+
+#  Ignore any accidental binary/generated files 
+*.pdf
+*.docx
+*.xlsx
+*.csv
+*.json
+*.pkl
+*.pickle
+*.npy
+*.bin
+
+
+#  Ignore OS and editor artifacts 
+.DS_Store
+Thumbs.db
+*.swp
+*~
+desktop.ini
+
+
+#  Ignore any temp processing outputs 
+processed/
+chunks/
+embeddings/
+*.tmp

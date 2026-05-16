@@ -1,0 +1,35 @@
+# ═══════════════════════════════════════════════════════════════
+#  StartupRisk AI v2  —  tests/.gitignore
+# ═══════════════════════════════════════════════════════════════
+
+
+#  Pytest cache 
+.pytest_cache/
+__pycache__/
+*.pyc
+
+
+#  Coverage reports 
+.coverage
+htmlcov/
+coverage.xml
+*.cover
+
+
+#  Test databases (generated during test runs) 
+test_*.db
+test_*.sqlite
+*.db
+# Exception: allow committed fixture databases if any
+!fixtures/*.db
+
+
+#  Test ChromaDB (created during integration tests) 
+test_chroma_db/
+chroma_db_test/
+
+
+#  Logs 
+*.log
+test-results/
+junit.xml

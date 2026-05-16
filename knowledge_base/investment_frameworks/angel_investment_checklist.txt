@@ -1,0 +1,31 @@
+Angel investing in early-stage startups involves assessing companies where traditional financial metrics are limited or absent. The following due diligence checklist reflects the evaluation framework used by experienced angel investors and angel networks including the Indian Angel Network, AngelList, and the Angel Capital Association. Each item represents a domain of inquiry that meaningfully affects investment decision quality.
+
+1. Founder assessment and background. Evaluate whether founders have relevant domain expertise or have experienced the problem personally. Check prior entrepreneurial track record, noting that repeat founders with exits or learning from failures tend to outperform first-time founders statistically. Assess whether the team has worked together before and whether there is evidence of trust and complementarity. Conduct reference calls with former colleagues, professors, or mentors.
+
+2. Problem clarity and evidence. Ask founders to explain the problem they are solving without referencing their solution. Strong founders can describe customer pain in granular, specific language because they have done extensive customer discovery. Weak founders default to market size statistics and vague problem statements. Request evidence of customer conversations, including notes or recordings from at least 20 to 30 potential customer interviews.
+
+3. Unique insight or secret. Great early-stage companies are often built on a non-obvious insight about the market that mainstream investors and incumbents have overlooked or dismissed. Ask founders what they believe that most people in their industry do not, and assess whether the answer reveals genuine counter-consensus thinking based on evidence.
+
+4. Market size assessment. Evaluate total addressable market, serviceable addressable market, and serviceable obtainable market. Be skeptical of large market claims derived from broad industry reports. The most important question is whether there is a viable initial segment that can be won quickly enough to build traction before running out of runway, and from which the company can expand naturally.
+
+5. Product demonstration and technical validation. Request a live demonstration of any working product. Assess whether core functionality works reliably. For technical products, have an advisor with relevant expertise evaluate whether the technical approach is sound. Note whether the product is minimally viable but functional versus vaporware or heavily mocked demonstrations.
+
+6. Traction and early validation signals. This is among the strongest predictors of success. Evidence can include paying customers, letters of intent from credible organizations, signed pilot agreements, free users who express high engagement and strong intent to pay, meaningful waitlist size, or domain expertise recognition such as publication in respected venues or invitations to speak at industry events.
+
+7. Revenue model and unit economics thesis. Assess whether the founder has a clear hypothesis about how the business will make money and what the unit economics will look like at scale. Ask for a back-of-envelope LTV and CAC estimate and probe whether the assumptions behind it are reasonable. At angel stage, precision is less important than evidence that the founder has thought carefully about the financial structure of the business.
+
+8. Competitive landscape and differentiation. Map the competitive landscape with the founder. Identify why the startup can win against incumbents and well-funded competitors. Assess whether differentiation is meaningful and defensible or superficial. Be concerned about founders who claim no competition exists, as this usually indicates insufficient market research.
+
+9. Regulatory and compliance risk. For startups in regulated sectors including financial services, healthcare, food, education, and pharmaceuticals, assess what licenses are required, the cost and timeline to obtain them, and whether the founding team has the knowledge or advisors to navigate the regulatory environment.
+
+10. IP and legal structure. Confirm that the company is properly incorporated, that all IP is assigned to the company rather than to individual founders, that there are no conflicts of interest from prior employer agreements, and that cap table ownership is clear and unencumbered.
+
+11. Use of funds and milestone planning. Evaluate whether the amount being raised is appropriate for the milestones the team is targeting, and whether achieving those milestones will create a compelling case for the next funding round. Assess whether the burn plan is realistic and whether the founding team has the financial discipline to manage to it.
+
+12. Reference checks and community standing. Speak with former colleagues, customers, or professors. The startup ecosystem is small and reputation travels. Seek second and third-degree connections through the investment network who can provide candid assessments of founder character and capabilities.
+
+13. Investment terms and valuation reasonableness. For angel rounds in India, typical valuations range from 1 to 5 crore rupees for pre-product ideas from strong founding teams to 5 to 20 crore rupees for post-traction seed rounds. SAFE notes and convertible notes are common instruments. Evaluate whether the valuation is reasonable given stage and traction, as an overvalued seed round can create downstream fundraising complications.
+
+14. Exit path and return potential. Angel investing requires genuine potential for 10x or greater return to compensate for the high failure rate. Assess whether the market and business model could support an exit via acquisition or IPO that would generate that return at a plausible valuation multiple.
+
+15. Investor access and information rights. Confirm post-investment information rights including quarterly updates, access to financial statements, and notification rights for material events. These protections matter if the company encounters difficulties and investors need visibility to help or protect their position.

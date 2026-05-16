@@ -1,0 +1,161 @@
+# ═══════════════════════════════════════════════════════════════
+#  StartupRisk AI v2  —  Root .gitignore
+#  Covers: Python backend, Node/React frontend, AI models, data
+# ═══════════════════════════════════════════════════════════════
+
+
+#  Environment & Secrets 
+.env
+.env.local
+.env.*.local
+*.env
+!.env.example          # always commit the example template
+
+
+#  Python 
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.whl
+MANIFEST
+pip-log.txt
+pip-delete-this-directory.txt
+
+
+#  Virtual Environments 
+venv/
+.venv/
+env/
+.env/
+ENV/
+env.bak/
+venv.bak/
+.virtualenv/
+
+
+#  AI / ML — Local Model Caches 
+# HuggingFace model downloads (FinBERT ~440MB, MiniLM ~80MB)
+.cache/
+~/.cache/huggingface/
+huggingface_cache/
+model_cache/
+
+# Ollama models are stored system-wide — not in repo
+# ~/.ollama/models  (macOS/Linux)
+# C:\Users\<user>\.ollama\models  (Windows)
+
+
+#  ChromaDB Vector Store 
+# Auto-generated at first run from knowledge_base/ text files
+# Re-indexing takes ~30 seconds — do not commit the binary store
+chroma_db/
+*.chroma
+chroma.sqlite3
+
+
+#  LangGraph Checkpoints 
+checkpoints.db
+checkpoints.db-shm
+checkpoints.db-wal
+
+
+#  SQLite Databases 
+*.db
+*.sqlite
+*.sqlite3
+!tests/fixtures/*.db   # allow test fixture databases if any
+
+
+#  Node / React 
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.npm
+.yarn/
+.pnp.*
+
+
+#  Frontend Build Output 
+frontend/dist/
+frontend/build/
+frontend/.vite/
+frontend/coverage/
+
+
+#  Testing & Coverage 
+.pytest_cache/
+.coverage
+htmlcov/
+coverage.xml
+*.cover
+.hypothesis/
+pytest_cache/
+test-results/
+junit.xml
+
+
+#  IDE & Editor 
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+desktop.ini
+.project
+.classpath
+.settings/
+*.sublime-project
+*.sublime-workspace
+
+
+#  OS Generated 
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V500
+.Trashes
+ehthumbs.db
+Thumbs.db
+[Dd]esktop.ini
+$RECYCLE.BIN/
+
+
+#  Logs 
+logs/
+*.log
+*.log.*
+log/
+
+
+#  Temporary / Misc 
+tmp/
+temp/
+.tmp/
+*.tmp
+*.bak
+*.orig
+*.rej
+.mypy_cache/
+.ruff_cache/
+.pytype/
+pyrightconfig.json
+startupriskai-frontend/.env.example
